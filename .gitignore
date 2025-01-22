@@ -1,0 +1,11 @@
+/env
+
+__pycache__
+
+.cache.sqlite
+
+mydb.db
+
+get_token.py 
+text2sql.ipynb
+weather.ipynb
